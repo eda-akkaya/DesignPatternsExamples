@@ -6,7 +6,7 @@ package com.example.strategy_pattern.example1.after;
  */
 public class PaymentService {
 
-    private PaymentStrategy paymentStrategy;
+    private final PaymentStrategy paymentStrategy;
 
     // Strategy, constructor üzerinden enjekte edilir
     public PaymentService(PaymentStrategy paymentStrategy){
