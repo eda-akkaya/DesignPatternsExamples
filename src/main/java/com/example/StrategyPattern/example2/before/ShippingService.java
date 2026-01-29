@@ -1,4 +1,4 @@
-package com.example.strategy_pattern.example2.before;
+package com.example.StrategyPattern.example2.before;
 
 public class ShippingService {
 

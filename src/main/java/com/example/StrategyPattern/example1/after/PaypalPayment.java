@@ -1,4 +1,4 @@
-package com.example.strategy_pattern.example1.after;
+package com.example.StrategyPattern.example1.after;
 
 public class PaypalPayment implements PaymentStrategy {
 

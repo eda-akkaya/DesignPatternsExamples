@@ -1,4 +1,4 @@
-package com.example.strategy_pattern.example1.before;
+package com.example.StrategyPattern.example1.before;
 
 /* Tüm davranışlar tek sınıfta
     PaymentService hem ödemeYİ yönetiyor hem ödeme türlerini biliyor -> single responsibility prensibine aykırı

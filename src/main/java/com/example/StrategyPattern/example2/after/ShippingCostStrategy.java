@@ -1,4 +1,4 @@
-package com.example.strategy_pattern.example2.after;
+package com.example.StrategyPattern.example2.after;
 
 /**
  * Kargo ücret hesaplama stratejileri için ortak interface
